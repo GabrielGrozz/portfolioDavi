@@ -1,0 +1,31 @@
+@font-face {
+   font-family: "boldoni";
+   src: url("./assets/fonts/bodoni_xt/BodoniXT.ttf");
+}
+
+.flex{
+   display: flex;
+}
+
+* {
+   color: rgb(37, 37, 37);
+   font-family: "arial";
+   text-decoration: none;
+}
+
+body {
+   margin: 0;
+   padding: 0;
+}
+
+#app {
+   margin: 0 auto;
+   text-align: center;
+}
+
+.bg-color-1 {
+   background-color: rgb(57, 57, 57);
+}
+.bg-color-2 {
+   background-color: rgb(13, 9, 9);
+}
