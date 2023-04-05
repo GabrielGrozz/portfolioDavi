@@ -6,7 +6,7 @@ import photo from "../assets/dave.jpg";
   <div class="header-container">
     <div class="anchors flex">
       <a class="anchor" href="#projects">Projetos</a>
-      <a class="anchor" href="#contact">Contact</a>
+      <a class="anchor" href="#contact">Contatos</a>
     </div>
     <div class="name-container">
       <h1 class="name">Davi Figueiredo</h1>
