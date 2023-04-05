@@ -5,7 +5,7 @@ import photo from "../assets/dave.jpg";
 <template>
   <div class="header-container">
     <div class="anchors flex">
-      <a class="anchor" href="#projects">Projects</a>
+      <a class="anchor" href="#projects">Projetos</a>
       <a class="anchor" href="#contact">Contact</a>
     </div>
     <div class="name-container">
@@ -23,12 +23,8 @@ import photo from "../assets/dave.jpg";
       <div class="name-about-container flex">
         <div class="about-me">
           <p class="about">
-            Sou game designer estudante. Já trabalhei em alguns jogos em game jams e em alguns trabalhos independentes. 
-
-            Estudante de Jogos Digitais buscando atuar na área de jogos como game designer. Amante de jogos desde 2012.
-            
-            
-            Olá, meu nome é Davi Figueiredo, tenho 19 anos, e desde os 8 sou apaixonado por jogos eletrônicos e de mesa. já participei como game designer em game jams e projetos pessoais enquanto estudo para me graduar na área 
+            Olá, meu nome é Davi Figueiredo, tenho 19 anos, e desde os 8 sou apaixonado por jogos eletrônicos e de mesa. já participei como game designer em game jams e projetos pessoais enquanto estudo para me graduar na área <p/>
+           
           </p>
         </div>
       </div>
@@ -77,8 +73,8 @@ import photo from "../assets/dave.jpg";
 .photo {
   border-radius: 50%;
   margin-bottom: 30px;
-  width: 350px;
-  height: 350px;
+  width: 380px;
+  height: 380px;
   border: 5px rgb(161, 161, 161) solid;
   box-shadow: 8px 10px 15px rgb(122, 122, 122);
 }

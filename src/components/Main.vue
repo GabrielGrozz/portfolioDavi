@@ -16,7 +16,7 @@
         name="Vanishing Blade - 2022"
         link="https://jotapeoliveira.itch.io/vanishinblade"
         color="1"
-        description="Em uma das minhas game jams eu e minha equipe criamos o Vanishing Blade, um jogo de plataforma side scroller onde um guerreiro amaldiçoado a quebrar toda a arma que usa"
+        description="Em uma das minhas game jams eu e minha equipe criamos o Vanishing Blade, um jogo de plataforma side scroller onde um guerreiro amaldiçoado fadado a quebrar toda arma que usa"
       />
       <Cakes
       :cake="game3"
@@ -30,7 +30,8 @@
     name="Manny rooms - 2022"
     link="https://kklavi.itch.io/manny-rooms"
     color="1"
-    description="Um trabalho da faculdade que acabou se tornando um jogo, muito inspirado nas “backrooms” ele é um pequeno jogo de terror liminal"
+    description="Um trabalho da faculdade que se tornou um jogo, muito inspirado nas “backrooms” é um pequeno jogo de terror liminal"
+
   />
     </div>
   </div>

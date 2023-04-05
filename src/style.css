@@ -2,7 +2,9 @@
    font-family: "boldoni";
    src: url("./assets/fonts/bodoni_xt/BodoniXT.ttf");
 }
-
+*{
+   color: white;
+}
 .flex{
    display: flex;
 }
