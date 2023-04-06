@@ -23,7 +23,7 @@ import photo from "../assets/dave.jpg";
       <div class="name-about-container flex">
         <div class="about-me">
           <p class="about">
-            Olá, meu nome é Davi Figueiredo, tenho 19 anos, e desde os 8 sou apaixonado por jogos eletrônicos e de mesa. já participei como game designer em game jams e projetos pessoais enquanto estudo para me graduar na área <p/>
+            Olá, meu nome é Davi Figueiredo, tenho 19 anos, e desde os 8 sou apaixonado por jogos eletrônicos e de mesa. Já participei como game designer em gamejams e projetos pessoais enquanto estudo para me graduar na área.<p/>
            
           </p>
         </div>
