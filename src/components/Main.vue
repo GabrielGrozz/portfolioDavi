@@ -6,31 +6,31 @@
     <div>
       <Cakes
         :cake="game1"
-        name="Noite de fogo - 2022"
+        name="Noite de Fogo - 2022"
         link="https://kklavi.itch.io/noite-de-fogo"
         color="1"
-        description="Um Jogo feito em uma gamejam de 48 horas, um endless runner frenético em que você controla o Boitatá e  caça lenhadores ilegais que estão desmatando a floresta amazônica"
+        description="Jogo feito em uma gamejam de 48 horas. Um endless runner frenético em que você controla o Boitatá e caça lenhadores ilegais que estão desmatando a floresta amazônica"
       />
       <Cakes2
         :cake="game2"
         name="Vanishing Blade - 2022"
         link="https://jotapeoliveira.itch.io/vanishinblade"
         color="1"
-        description="Em uma das minhas game jams eu e minha equipe criamos o Vanishing Blade, um jogo de plataforma side scroller onde um guerreiro amaldiçoado fadado a quebrar toda arma que usa"
+        description="Em uma das minhas gamejams eu e minha equipe criamos o Vanishing Blade, um jogo de plataforma side scroller onde você controla um guerreiro que esta fadado a quebrar toda arma que usa"
       />
       <Cakes
       :cake="game3"
-      name="RPG - medo do escuro - 2022"
+      name="RPG - Medo do Escuro - 2022"
       link="https://kklavi.itch.io/rpg-medo-do-escuro"
       color="1"
-      description="Um RPG de mesa que crier na faculdade, onde um narrador controla o monstro do escuro e um jogador controla a criança que tentará superar seu medo"
+      description="Um RPG de mesa que criei em um trabalho na faculdade, onde um narrador controla o monstro do escuro e um jogador controla as ações da criança que tentará superar seu medo"
     />
     <Cakes2
     :cake="game4"
-    name="Manny rooms - 2022"
+    name="Manny Rooms - 2022"
     link="https://kklavi.itch.io/manny-rooms"
     color="1"
-    description="Um trabalho da faculdade que se tornou um jogo, muito inspirado nas “backrooms” é um pequeno jogo de terror liminal"
+    description="Um trabalho da faculdade que se tornou um jogo, muito inspirado nas “backrooms”, é um pequeno jogo de terror liminal"
 
   />
     </div>

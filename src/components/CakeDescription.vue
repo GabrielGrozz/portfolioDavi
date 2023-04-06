@@ -15,7 +15,7 @@ export default {
 
 <style scoped>
 .description {
-  margin: 30px 30px 0px 10%;
+  margin: 30px 60px 0px 60px;
   width: 350px;
   height: 550px;
   border-radius: 5px;
@@ -33,22 +33,22 @@ export default {
   .description {
     height: 570px;
     margin: 25px 10px 0 45px;
-    font-size: 1.4em;
+    font-size: 1.2em;
   }
 }
 
 @media screen and (max-width: 895px) {
   .description {
     height: 570px;
-    margin: 25px 10px 0 45px;
-    font-size: 1.4em;
+    margin: 25px 30px 0 30px;
+    font-size: 1.2em;
   }
 }
 @media screen and (max-width: 845px) {
   .description {
     height: 600px;
     margin: 25px 10px 0 45px;
-    font-size: 1.4em;
+    font-size: 1.2em;
   }
 }
 
@@ -57,13 +57,13 @@ export default {
     height: 500px;
     margin: 25px 0 0 0;
     border-radius: 0;
-    font-size: 1.3em;
+    font-size: 1.1em;
   }
 
   @media screen and (max-width: 655px) {
     .description {
       height: 580px;
-      font-size: 1.2em;
+      font-size: 1em;
     }
   }
 
