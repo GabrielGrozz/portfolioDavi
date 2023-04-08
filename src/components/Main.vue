@@ -16,7 +16,7 @@
         name="Vanishing Blade - 2022"
         link="https://jotapeoliveira.itch.io/vanishinblade"
         color="1"
-        description="Em uma das minhas gamejams eu e minha equipe criamos o Vanishing Blade, um jogo de plataforma side scroller onde você controla um guerreiro que esta fadado a quebrar toda arma que usa"
+        description="Em uma das minhas gamejams eu e minha equipe criamos o Vanishing Blade, um jogo de plataforma side scroller onde você controla um guerreiro que está fadado a quebrar toda arma que usa"
       />
       <Cakes
       :cake="game3"
